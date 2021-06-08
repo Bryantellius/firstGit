@@ -1,5 +1,6 @@
 # First Git Project
 
+- Create a new directory to work in with `$ mkdir projectName`
 - Creating a new git repository with `$ git init`
 - Edit the file(s)
 - Add file(s) to the staging area with `$ git add .`
