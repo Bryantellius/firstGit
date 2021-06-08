@@ -6,3 +6,4 @@
 - Add file(s) to the staging area with `$ git add .`
 - Commit file(s) with `$ git commit -m "message"`
 - Push the committed code to GitHub with `$ git push`
+- Another change
