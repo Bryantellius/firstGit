@@ -4,3 +4,4 @@
 - Git Branching and Merging Exercises
 - Git Conflict Resolution Lecture
 - Git Conflict Resolution Exercises
+- Practice
